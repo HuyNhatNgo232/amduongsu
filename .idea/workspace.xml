@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f4f2adc-503b-4858-b3de-b4ef0b36a072" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/forms.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/templates/webapp/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/templates/webapp/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amduongsu/urls.py" afterPath="$PROJECT_DIR$/amduongsu/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/admin.py" afterPath="$PROJECT_DIR$/webapp/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/models.py" afterPath="$PROJECT_DIR$/webapp/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/views.py" afterPath="$PROJECT_DIR$/webapp/views.py" />
-    </list>
+    <list default="true" id="1f4f2adc-503b-4858-b3de-b4ef0b36a072" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
