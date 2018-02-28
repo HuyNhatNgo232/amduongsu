@@ -1,0 +1,17 @@
+{%extends "webapp/base.html"%}
+{% load static %}
+{%block content%}
+{% for shikigami in shikigami_list %}
+
+<div class="container">
+    <input class="form-control" id="myInput" type="text" placeholder="Search..">
+    <br>
+    <ul class="list-group" id="myList">
+        <li>
+            {{shikigami.image.url}}
+            <img src="{{ MEDIA_URL}} {{ shikigami.image.url }}">
+        </li>
+    </ul>
+</div>
+{% endfor %}
+{%endblock%}
