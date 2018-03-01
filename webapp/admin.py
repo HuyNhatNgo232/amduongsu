@@ -4,4 +4,3 @@ from webapp.models import Webapp, Shikigami
 # Register your models here.
 
 admin.site.register(Webapp)
-admin.site.register(Shikigami)
