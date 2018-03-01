@@ -23,3 +23,6 @@ class Shikigami(models.Model):
     def __str__(self):
         return self.shikigamiJapName
 
+    def image_str(self):
+        return str(self.image)
+

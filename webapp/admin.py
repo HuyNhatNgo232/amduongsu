@@ -1,6 +1,7 @@
 from django.contrib import admin
-from webapp.models import Webapp
+from webapp.models import Webapp, Shikigami
 
 # Register your models here.
 
 admin.site.register(Webapp)
+admin.site.register(Shikigami)
