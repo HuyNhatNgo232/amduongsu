@@ -17,13 +17,3 @@ class IndexView(ListView):
     def get_queryset(self):
         return Webapp.objects.all()
 
-class ShikigamiDetailView(ListView):
-    template_name = "webapp/shikigami_page.html"
-    context_object_name = "shikigami_list"
-
-    def get_queryset(self):
-        return Shikigami.objects.all()
-    #
-    # def get(self, request, *args, **kwargs):
-    #     return render(request, self.template_name, {})
-
